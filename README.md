@@ -24,8 +24,12 @@ Java provides a rich set of data structures that can be used to store and manipu
 - **Arrays**: Fixed-size data structures that store elements of the same type.
 - **ArrayList**: A resizable array that implements the List interface.
 - **LinkedList**: A doubly-linked list implementation of the List interface.
-- **HashSet**: A collection that does not allow duplicate elements.
-- **HashMap**: A collection that stores key-value pairs and allows fast retrieval.
+- **Stack**: A data structure LIFO (Last In First Out).
+- **Queue**: A data structure FIFO (Fist In First Out), works for asynchronous purposes.
+- **HashSet**: A collection that does not allow duplicate elements & Does not require a specific order, its elements use a Hashcode to be identified.
+- **TreeSet**: A collection that does not allow duplicate elements & Order all own data based a comparable field.
+- **HashMap**: A collection that stores key-value pairs and allows fast retrieval & Does not require a specific order, its elements use a Hashcode to be identified.
+- **TreeMap**: A collection that stores key-value pairs and allows fast retrieval & Order all own data based a comparable field.
 
 ## Manipulating Data Structures
 
