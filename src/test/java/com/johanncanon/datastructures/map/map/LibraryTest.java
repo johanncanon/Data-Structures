@@ -1,5 +1,7 @@
 package com.johanncanon.datastructures.map.map;
 
+import com.johanncanon.datastructures.map.hashmap.Dictionary;
+import com.johanncanon.datastructures.map.hashmap.Library;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

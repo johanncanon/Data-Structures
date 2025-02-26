@@ -1,4 +1,4 @@
-package com.johanncanon.datastructures.map.map;
+package com.johanncanon.datastructures.map.hashmap;
 
 import lombok.Getter;
 import lombok.extern.log4j.Log4j2;
